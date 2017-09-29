@@ -1,0 +1,7 @@
+name: binder-base
+dependencies:
+- jupyter
+- matplotlib>=2
+- numpy>=1.1
+- scipy>=0.18
+- seaborn>=0.8
